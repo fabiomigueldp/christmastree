@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Christmas Tree Display
 
@@ -112,3 +113,6 @@ Este projeto é distribuído sob a licença MIT.
 ---
 
 Enjoy the festive display in your terminal! 😊 | Divirta-se com a exibição festiva no seu terminal! 😊
+=======
+# christmastree
+>>>>>>> f63db5bed5d50a4a95e4e82410bab0bd3682d5de
