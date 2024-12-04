@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 # Christmas Tree Display
 
@@ -16,6 +15,13 @@ The **Christmas Tree Display** is a Python project that uses the `curses` librar
 - A beautifully structured ASCII art Christmas tree.
 - Responsive design for terminal resizing.
 - Logs application errors for debugging (`christmastree.log`).
+
+---
+
+### 🖼 Preview
+Here is an example of the Christmas tree in action:
+
+![Christmas Tree Display](christmastree.jpg)
 
 ---
 
@@ -73,6 +79,13 @@ O **Christmas Tree Display** é um projeto Python que utiliza a biblioteca `curs
 
 ---
 
+### 🖼 Visualização
+Veja abaixo um exemplo da árvore de Natal em execução:
+
+![Christmas Tree Display](christmastree.jpg)
+
+---
+
 ### 🛠 Requisitos
 - Python 3.6 ou superior.
 - Instale as dependências via `requirements.txt`.
@@ -113,6 +126,3 @@ Este projeto é distribuído sob a licença MIT.
 ---
 
 Enjoy the festive display in your terminal! 😊 | Divirta-se com a exibição festiva no seu terminal! 😊
-=======
-# christmastree
->>>>>>> f63db5bed5d50a4a95e4e82410bab0bd3682d5de
